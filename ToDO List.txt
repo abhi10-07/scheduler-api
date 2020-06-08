@@ -1,0 +1,7 @@
+1. Add Event UI -- Only checked task
+2. Add Schedule 
+3. My Event UI  -- Done
+4. My Schedule UI -- Done
+5. Scheduling page UI - -- Done
+6. JWT laravel  -- Done
+7. MERN video continuations
